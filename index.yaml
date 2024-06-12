@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  go-http-rest-api-project:
+  - apiVersion: v2
+    created: "2024-06-12T18:28:12.687514+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 361dfe26c7cbcfc6bfa980edd0b37b55749e5e9297f2fc7ac75af9378e690b33
+    name: go-http-rest-api-project
+    type: application
+    urls:
+    - charts/go-http-rest-api-project-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    created: "2024-06-12T18:28:12.686896+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 7196dc5c3850138d069fb0b1d7e460acbe2def802a151c109aef2cfed556b950
+    name: go-http-rest-api-project
+    type: application
+    urls:
+    - charts/go-http-rest-api-project-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-12T18:28:12.685547+07:00"
